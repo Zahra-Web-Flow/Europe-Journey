@@ -18,4 +18,20 @@ Explore the project here:
 ### 💡 Project OverviePurpose:e:** To practice and master the fundamentals of layout design and web structureFocus:s:** Creating a responsive, user-friendly interface that tells a story through visual content.
 
 ---
+
+### 🌐 Connect with Me
+<a href="https://github.com/Zahra-Web-Flow">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="www.linkedin.com/in/zahrakh-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="www.instagram.com/zahrakh__dev/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+
+---
+
+
 *Built with passion as my first step in web development.*
